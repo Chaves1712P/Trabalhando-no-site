@@ -1,0 +1,94 @@
+*{
+  
+width: 100%;
+height: 100%;
+margin:0 auto;
+}
+.menu-principal {
+width: 100%;
+background-color:#000000;
+height: 90px;
+}
+main, content {
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+.logo {
+    float: left;
+    padding: 1px;
+    width: 79%;
+}
+.redes-sociais ul li {
+    margin-left: 10px;
+    display: inline-block;
+    float: left;
+    list-style: none;
+}
+.redes-sociais {
+    width: 20%;
+    float: right;
+}
+.header-2 {
+    background-color: beige;
+    width: 100%;
+    border-bottom: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;
+}
+-----------banner do site oficina do cabelo---------------
+}
+.uf {
+    text-align: center;
+}
+.uf strong {
+    color: #646464;
+}
+.uf h1 {
+    color: #818181;
+}
+.uf p {
+    color: #9a9a9a;
+
+}
+.slick-initialized {
+    overflow: hidden;
+}
+.slick-dots li {
+    padding-left: 10px;
+   
+
+}
+.content {
+    text-align: center;
+}
+.content p {
+    color: #9a9a9a;
+
+
+}
+.content h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #818181;
+
+}
+.content p {
+    font-size: 15px;
+    color: #9a9a9a;
+}
+.col-3 {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 29.3%;
+    float: left;
+    position: relative;
+}
+.bloco-texto {
+    margin-top: 3em;
+}
+h3 {
+    font-weight: normal!important;
+    
+}
